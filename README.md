@@ -4,7 +4,7 @@
 **Jeevan Dhan – Personal Medical Record Management App**
 
 ## 2. Your Name & Roll Number
-Shashwat Sharma – [Your Roll Number]
+Shashwat Sharma 
 
 ## 3. Problem Statement
 In India, people often misplace or lose their medical reports, prescriptions, and test results, leading to repeated tests, increased costs, and treatment delays.  
