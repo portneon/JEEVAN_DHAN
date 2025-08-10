@@ -1,4 +1,4 @@
-# Project Idea Submission – Jeevan Dhan
+# Jeevan Dhan
 
 ## 1. Project Title
 **Jeevan Dhan – Personal Medical Record Management App**
